@@ -21,3 +21,5 @@ The models used for neural machine translation are:
 4)Bidirectional model
 5)Final model
 But the best translation was with final model.
+
+For better knowledge of algorithm Analytics Vidhya content is best. 
